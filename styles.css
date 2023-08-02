@@ -1,5 +1,6 @@
 
 header{
+    position: relative;
     height:900px;
     background-image:url(./assets/Title-Image.png);
     background-repeat: no-repeat;
@@ -7,7 +8,7 @@ header{
     /* padding-bottom: 40%; */
 }
 .logo{
-    height: 11px;
+    height: 16px;
 }
 #maid{
     position: relative;
@@ -15,7 +16,9 @@ header{
     color: aliceblue;
 }
 #show-logo{
-    height: 20px;
+    height: 30px;
+    padding-left: 10px;
+    padding-right: 10px;
 }
 .top{
     position: relative;
@@ -29,12 +32,9 @@ header{
 }
 #top-right{
     position: relative;
-    left:45%;
+    left:50%;
     width: fit-content;
 
-}
-nav{
-    border: 2px solid white;
 }
 
 caption img{
@@ -53,4 +53,7 @@ table~p{
     left:60px;
     padding: 7px;
     width: fit-content;
+}
+li{
+    padding-left: 25px;
 }
