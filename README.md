@@ -18,5 +18,7 @@ If you need more icons you can visit [flaticons.com](https://www.flaticon.com/)
 
 My output screenshots
 ![Uploading Screenshot 2023-08-02 181603.png…]()
-![Uploading Screenshot 2023-08-02 181550.png…]()
+![Screenshot 2023-08-02 181550](https://github.com/k-46/netflix-clone-boilerplate/assets/139456269/e6138a60-2b74-4b12-818a-93816a5aa0c5)
 ![Uploading Screenshot 2023-08-02 181615.png…]()
+![Uploading Screenshot 2023-08-02 181550.png…]()
+![Uploading Screenshot 2023-08-02 181550.png…]()
