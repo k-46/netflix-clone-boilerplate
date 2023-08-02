@@ -1,0 +1,39 @@
+*{
+    color: white;
+    background-color: gr;
+}
+header{
+    height:fit-content;
+    background-image:url(./assets/Title-Image.png);
+    background-repeat: no-repeat;
+    background-size:cover;
+    padding-bottom: 40%;
+}
+.logo{
+    height: 11px;
+}
+#maid{
+    position: relative;
+    bottom: -125px;
+}
+#show-logo{
+    height: 20px;
+}
+.top{
+     list-style: none;
+    display: flex;
+}
+ul{
+    display: inline-block;
+    
+}
+#top-left{
+    justify-content:left;
+    background-color: aquamarine;
+    width: fit-content;
+}
+#top-right{
+    justify-content:right;
+    background-color: aqua;
+    width: fit-content;
+}
