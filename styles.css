@@ -26,6 +26,11 @@ header{
     top:50%;
     color: aliceblue;
 }
+.left-padding{ 
+    display: flex;
+    align-items: center;
+    margin-left: 10px;
+}
 #show-logo{
     height: 30px;
     /* padding-left: 10px;
@@ -83,11 +88,12 @@ footer{
 @media (max-width: 500px) {
     body{
         margin: 0;
-        padding-left: 0px;
+        padding-left: 0 10px;
     }
     nav{
         display: none;
     }
+    
     .hidden{
         display: flex;
         justify-content: space-between;
@@ -114,7 +120,8 @@ footer{
       justify-content: space-between;
       width: 100%;
       gap: 10px;
-      align-items: center; 
+      align-items: center;
+      padding: 0 10px;
     }
     h1{
         font-size: 40px;
